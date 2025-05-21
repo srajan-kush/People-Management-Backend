@@ -22,7 +22,7 @@ A RESTful API built with Node.js and MongoDB for managing people records.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/srajan-kush/People-Management-Backend.git
 cd people_management_backend
 ```
 
