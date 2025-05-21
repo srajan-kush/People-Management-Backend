@@ -3,7 +3,7 @@
 A RESTful API built with Node.js and MongoDB for managing people records.
 
 ## Live Demo
-The application is hosted at: [https://kuteeram-tech.onrender.com/](https://kuteeram-tech.onrender.com/)
+The application is hosted at: [https://people-management-backend-2r5c.onrender.com/](https://people-management-backend-2r5c.onrender.com/)
 
 ## Features
 
